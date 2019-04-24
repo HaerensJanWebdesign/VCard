@@ -1,0 +1,44 @@
+html {
+    background: url(images/background.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden
+}
+.box {
+    border: solid black;
+    position: fixed;
+    margin:auto;
+    border-radius: 15px;
+    margin-left: 600px;
+    background-color: rgba(0,0,0,.5);
+}
+.box h1 {
+    font-size: 50px;
+    text-align: center;
+    background: -webkit-linear-gradient(#232BFF,#D820FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1px black;
+}
+.box li {
+    display:inline;
+    padding-left: 4px;
+}
+.sexyboy {
+    border-radius: 50%;
+}
+.text {
+    width:300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 4px;
+
+    background-color: ;
+
+    border: solid black;
+    border-radius: 15px;    
+}
+.socials {
+    text-align: left;
+}
